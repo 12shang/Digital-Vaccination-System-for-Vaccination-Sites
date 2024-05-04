@@ -1,0 +1,51 @@
+C:\Users\mitsuya\source\repos\bovid\bovid\bin\Debug\bovid.exe.config
+C:\Users\mitsuya\source\repos\bovid\bovid\bin\Debug\bovid.exe
+C:\Users\mitsuya\source\repos\bovid\bovid\bin\Debug\bovid.pdb
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.csproj.AssemblyReference.cache
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.Form1.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.Properties.Resources.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.csproj.GenerateResource.cache
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.csproj.CoreCompileInputs.cache
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.exe
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.pdb
+C:\Users\mitsuya\source\repos\bovid\bovid\bin\Debug\user_information.accdb
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.waiver.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.tests.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.questions.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.vaccination.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.registration_screen.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.last_question.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.observation_and_final_checks.resources
+C:\Users\mitsuya\source\repos\bovid\bovid\bin\Debug\bovid.exe.manifest
+C:\Users\mitsuya\source\repos\bovid\bovid\bin\Debug\bovid.application
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.exe.manifest
+C:\Users\mitsuya\source\repos\bovid\bovid\obj\Debug\bovid.application
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\bin\Debug\user_information.accdb
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\bin\Debug\bovid.exe.config
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\bin\Debug\bovid.exe.manifest
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\bin\Debug\bovid.application
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\bin\Debug\bovid.exe
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\bin\Debug\bovid.pdb
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.csproj.AssemblyReference.cache
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.Form1.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.last_question.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.observation_and_final_checks.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.Properties.Resources.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.questions.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.registration_screen.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.tests.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.vaccination.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.waiver.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.csproj.GenerateResource.cache
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.csproj.CoreCompileInputs.cache
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.exe.manifest
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.application
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.exe
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.pdb
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.Form2.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.medcert.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.medcert_screen.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.dose.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.schedule.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid._1st_dose.resources
+D:\Desktop\vaccination center system\actual files na pwede nyo buksan sa visual studio\bovid\bovid\obj\Debug\bovid.last_choice.resources
